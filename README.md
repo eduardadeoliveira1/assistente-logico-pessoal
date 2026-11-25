@@ -3,7 +3,7 @@
 > Atividade da disciplina Linguagem de Programação e Paradigmas · UNIDAVI · 2026/2
 
 **Aluno(a):** Eduarda de Oliveira
-**Linguagem do sistema:** Python ou Node.js (apague a que não usou)
+**Linguagem do sistema:** Python 
 
 ## O que é
 
@@ -11,14 +11,13 @@ Uma base de conhecimento em Prolog (`meus_dados.pl`) com fatos e regras sobre mi
 
 ## Como executar
 
-Requisitos: SWI-Prolog no PATH e Python 3 **ou** Node.js.
+Requisitos: SWI-Prolog no PATH e Python.
 
 ```bash
 # testar a ponte
-python teste_ponte.py      # ou: node teste_ponte.js
-
+python teste_ponte.py      
 # executar o assistente
-python assistente.py       # ou: node assistente.js
+python assistente.py       
 ```
 
 ## Minha base
