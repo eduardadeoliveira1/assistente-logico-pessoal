@@ -2,7 +2,7 @@
 
 > Atividade da disciplina Linguagem de Programação e Paradigmas · UNIDAVI · 2026/2
 
-**Aluno(a):** SEU NOME (ou apelido)
+**Aluno(a):** Eduarda de Oliveira
 **Linguagem do sistema:** Python ou Node.js (apague a que não usou)
 
 ## O que é
